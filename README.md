@@ -1,2 +1,0 @@
-# Aula_Programador
- Python
